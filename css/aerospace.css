@@ -1,0 +1,46 @@
+html{
+	scroll-behavior: smooth;
+}
+
+
+
+
+
+.header-extradiv{
+
+	width:100%;
+	height:20%;
+	margin: none;
+	text-align:center;
+	
+
+}
+
+
+.container{
+	position:relative;
+	
+
+	
+}
+
+
+.extra-div{
+
+	background:#fff;
+	border: medium none;
+	padding :50px !important;
+	width:100%;
+	
+	transition:0.3s;
+	
+
+}
+
+.extra-div:hover{
+
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	transform:translateY(-20px);
+}
+
+
